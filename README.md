@@ -7,3 +7,7 @@ List of installer scripts
 - install-kubectl.sh
 - install-kubectx-kubens.sh
 - install-kubelogin.sh
+- install-kubestr.sh
+- install-kustomize.sh
+- install-linters.sh
+- install-virtctl.sh
